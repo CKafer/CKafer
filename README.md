@@ -6,7 +6,6 @@
 #### NOW
 
 - ✨ Game Design and Developer at [RagnaTales](https://ragnatales.com.br);
-- ⚙ Web Developer student at [Trybe](https://www.betrybe.com);
 
 #####
 
