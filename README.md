@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Cláudio</h1>
 
-- ✨ Passionate Game Developer from Brasília, Brazil | Developer at [RagnaTales](https://ragnatales.com.br);
+- ✨ Passionate Game Developer from Brasília, Brazil | Developer at [PlanetaryStudios](https://planetarystudios.net);
 
 #####
 
